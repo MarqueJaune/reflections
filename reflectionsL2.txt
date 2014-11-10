@@ -18,4 +18,9 @@ By using git diff --staged
 history organized? How would branches help?
 Either when you want to implement different features, code a different version/
 solution to the same issue  or bug, or rewrite a part of the code. It allows 
-you to try different aproaches without breaking functional stuff 
+you to try different aproaches without breaking functional stuff
+
+
+5. How do the diagrams help you visualize the branch structure?
+You can see when the branches were created, what change took place in each of 
+the branches 
