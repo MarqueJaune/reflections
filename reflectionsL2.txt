@@ -12,3 +12,10 @@ which will be added to the repository
 3. How can you use the staging area to make sure you have one commit per 
 logical change?
 By using git diff --staged
+
+
+4. What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+Either when you want to implement different features, code a different version/
+solution to the same issue  or bug, or rewrite a part of the code. It allows 
+you to try different aproaches without breaking functional stuff 
