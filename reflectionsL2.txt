@@ -1,0 +1,9 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+you create the necessary files/directory with git metadata so that git is able 
+to track the files in the repo
+
+
+2. How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+On the staging area you can the files/versions from the working directory
+which will be added to the repository
