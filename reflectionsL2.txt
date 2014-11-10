@@ -7,3 +7,8 @@ to track the files in the repo
 repository? What value do you think it offers?
 On the staging area you can the files/versions from the working directory
 which will be added to the repository
+
+
+3. How can you use the staging area to make sure you have one commit per 
+logical change?
+By using git diff --staged
